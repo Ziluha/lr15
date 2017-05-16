@@ -1,0 +1,20 @@
+{
+  "db": {
+    "dialect":"mysql",
+    "host": "127.0.0.1",
+    "name": "dns",
+    "user": "root",
+    "password": "04041997",
+    "dialectOptions": { "ssl": false }
+  },
+ "postgres": {
+    "dialect":"postgres",
+    "host": "ec2-54-75-231-195.eu-west-1.compute.amazonaws.com",
+    "name": "dct15corutnstm",
+    "user": "tsfyingcyvbouu",
+    "port": "5432",
+    "password": "41a8e514289994c36bcc8b27d8726ef80dd5738c5e91a0921a863604b29607ca",
+    "dialectOptions": { "ssl": true }
+  }
+
+}

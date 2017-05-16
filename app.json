@@ -1,0 +1,8 @@
+{
+	"name":"lab12 test project",
+	"description": "test",
+	"repository":"https://github.com/archishakinko/domains",
+	"logo": "https://small-sharp-tool.com/logo.svg",
+	"keywords": ["node", "express"],
+	"image":"heroku/nodejs"
+}
